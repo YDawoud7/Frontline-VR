@@ -1,0 +1,14 @@
+import * as __wonderlandengine_components from '@wonderlandengine/components';
+_registerEditor(__wonderlandengine_components);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_button_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/button.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_button_js);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_optionbutton_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/optionbutton.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_optionbutton_js);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_options_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/options.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_options_js);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_stab_outcome_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/stab-outcome.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_stab_outcome_js);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_stabSequence_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/stabSequence.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_stabSequence_js);
+import * as __Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_utils_js from '/Users/ydawoud/WonderlandEngine/FRONT TWO recent copy 8/js/utils.js';
+_registerEditor(__Users_ydawoud_WonderlandEngine_FRONT_TWO_recent_copy_8_js_utils_js);
